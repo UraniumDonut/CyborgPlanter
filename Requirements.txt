@@ -1,0 +1,9 @@
+Plant!
+Watering System
+Earph
+Beton-Cavity
+Ultrasonic Senschor
+0,96" OLED
+Growing LED
+Brightness sensor
+DHT11 (3 pin? DHT22?) 
